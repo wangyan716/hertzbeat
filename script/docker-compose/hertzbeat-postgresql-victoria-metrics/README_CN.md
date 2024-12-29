@@ -1,4 +1,4 @@
-##  docker-compose部署 HertzBeat+Postgresql+IoTDB 方案   
+##  docker-compose部署 HertzBeat+Postgresql+victoria-metrics 方案   
 
 - 如果想自己本地快速部署的话，可以参考下面进行操作。
 
